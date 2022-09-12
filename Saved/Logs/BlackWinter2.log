@@ -3087,3 +3087,1371 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.09.12-19.37.40:832][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2022.09.12-19.37.40:851][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
 [2022.09.12-19.37.40:855][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.12.37:611][944]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.12-22.12.38:284][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_DeathGrounded.ANIM_Crow_DeathGrounded
+[2022.09.12-22.12.38:284][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Crow/Animations/ANIM_Crow_DeathHitTheGround.ANIM_Crow_DeathHitTheGround
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 256X128)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 128X128)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2022.09.12-22.12.38:285][944]LogTexture: Display: Building textures: T_Crow_Specular (OODLE_AutoDXT, 32X32)
+[2022.09.12-22.12.39:171][944]LogTexture: Display: Building textures: T_Crow_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogTexture: Display: Building textures: T_Crow_Nml (OODLE_BC5, 2048X2048)
+[2022.09.12-22.12.39:171][944]LogTexture: Display: Building textures: T_Crow_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.39:171][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: 37233F810782BD08504DCE15C66470EDC53FA2EA), compiling. 
+[2022.09.12-22.12.39:232][944]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.39:233][944]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2022.09.12-22.12.39:236][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 74
+[2022.09.12-22.12.39:236][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2022.09.12-22.12.39:236][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2022.09.12-22.12.39:236][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 44
+[2022.09.12-22.12.39:236][944]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.39:236][944]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_WalkTurnR_RM.ANIM_Fox_WalkTurnR_RM
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_WalkTurnR.ANIM_Fox_WalkTurnR
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_WalkTurnL_RM.ANIM_Fox_WalkTurnL_RM
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_WalkTurnL.ANIM_Fox_WalkTurnL
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_RunTurnR.ANIM_Fox_RunTurnR
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_RunTurnR_RM.ANIM_Fox_RunTurnR_RM
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_RunTurnL_RM.ANIM_Fox_RunTurnL_RM
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_RunTurnL.ANIM_Fox_RunTurnL
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_RestToGoBackUp.ANIM_Fox_RestToGoBackUp
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_Resting.ANIM_Fox_Resting
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Fox/Animations/ANIM_Fox_GoToRest.ANIM_Fox_GoToRest
+[2022.09.12-22.12.46:035][944]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerStag_WalkTurnR_RM.ANIM_DeerStag_WalkTurnR_RM
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: T_Wolf_Specular (OODLE_AutoDXT, 32X32)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: T_WolfDark_Illum (OODLE_AutoDXT, 2048X2048)
+[2022.09.12-22.12.46:035][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.46:035][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 256X256)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 64X64)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 256X256)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 64X64)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 256X128)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 64X32)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 128X128)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: T_Wolf_BaseColorAlpha (OODLE_AutoDXT, 4096X4096)
+[2022.09.12-22.12.46:035][944]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: T_WolfDark_BaseColorAlpha (OODLE_AutoDXT, 4096X4096)
+[2022.09.12-22.12.46:035][944]LogTexture: Display: Building textures: T_Wolf_Nml (OODLE_BC5, 4096X4096)
+[2022.09.12-22.12.46:036][944]LogTexture: Display: Building textures: T_Wolf_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.09.12-22.12.46:036][944]LogTexture: Display: Building textures: T_WolfArctic_BaseColorAlpha (OODLE_AutoDXT, 4096X4096)
+[2022.09.12-22.12.46:036][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2022.09.12-22.12.46:036][944]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2022.09.12-22.12.46:036][944]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.09.12-22.12.46:036][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 434A7317C26491841BF48FE2ABF7C2D8B75F61E6), compiling. 
+[2022.09.12-22.12.46:086][944]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:088][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: F07245C4F6153B75C46742B7F04F94CCC681ACC7), compiling. 
+[2022.09.12-22.12.46:111][944]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:114][944]LogSkeletalMesh: Building Skeletal Mesh SK_Wolf...
+[2022.09.12-22.12.46:168][944]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf
+[2022.09.12-22.12.46:172][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 292B82A8D932A3484872DB9235EC536B32621C2E), compiling. 
+[2022.09.12-22.12.46:215][944]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:216][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: D00A9DE3037E01CF5CAAECD6CEB15E4A780BEFAC), compiling. 
+[2022.09.12-22.12.46:258][944]LogShaderCompilers: Display: Submitted 74 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:259][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: 0276D91B0EC6D3A99A5D8692CDF313F4672A13BA), compiling. 
+[2022.09.12-22.12.46:279][944]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:280][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: FC4D44D12C4185F9EF5FA8F1DAE85988612B9A96), compiling. 
+[2022.09.12-22.12.46:300][944]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.09.12-22.12.46:328][944]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.12-22.12.46:328][944]LogShaderCompilers: Display: Total job queries 8587, among them cache hits 12 (0.14%)
+[2022.09.12-22.12.46:328][944]LogShaderCompilers: Display: Tracking 8021 distinct input hashes that result in 1804 distinct outputs (22.49%)
+[2022.09.12-22.12.46:328][944]LogShaderCompilers: Display: RAM used: 12.08 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.74%
+[2022.09.12-22.12.46:328][944]LogShaderCompilers: Display: ================================================
+[2022.09.12-22.12.46:333][944]LogObjectTools: Deleting 2 worlds: /Game/AnimalVarietyPack/Crow/Maps/Overview.Overview, /Game/AnimalVarietyPack/Wolf/Maps/Overview.Overview
+[2022.09.12-22.12.46:333][944]LogObjectTools: Currently 5 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3
+[2022.09.12-22.12.46:365][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2022.09.12-22.12.46:445][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 336
+[2022.09.12-22.12.46:445][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.47:987][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 326
+[2022.09.12-22.12.47:987][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.49:073][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 316
+[2022.09.12-22.12.49:073][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.50:816][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 306
+[2022.09.12-22.12.50:816][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.52:504][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 296
+[2022.09.12-22.12.52:504][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.52:946][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 286
+[2022.09.12-22.12.52:946][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.53:580][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 276
+[2022.09.12-22.12.53:580][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.55:388][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 266
+[2022.09.12-22.12.55:388][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.56:962][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 256
+[2022.09.12-22.12.56:962][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.57:667][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 246
+[2022.09.12-22.12.57:667][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.58:563][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 236
+[2022.09.12-22.12.58:563][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.12.59:583][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 226
+[2022.09.12-22.12.59:583][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.01:114][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 216
+[2022.09.12-22.13.01:114][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.01:240][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 206
+[2022.09.12-22.13.01:240][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.02:704][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 196
+[2022.09.12-22.13.02:704][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.03:111][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 186
+[2022.09.12-22.13.03:111][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.04:717][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 176
+[2022.09.12-22.13.04:717][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.04:911][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 166
+[2022.09.12-22.13.04:911][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.07:405][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2022.09.12-22.13.07:405][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.07:791][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 146
+[2022.09.12-22.13.07:791][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.08:249][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 136
+[2022.09.12-22.13.08:249][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.09:644][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 126
+[2022.09.12-22.13.09:644][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.10:618][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 116
+[2022.09.12-22.13.10:618][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.10:993][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 106
+[2022.09.12-22.13.10:993][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.11:242][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2022.09.12-22.13.11:242][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.13:974][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 86
+[2022.09.12-22.13.13:974][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.14:939][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2022.09.12-22.13.14:939][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.15:717][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 66
+[2022.09.12-22.13.15:717][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.16:230][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 56
+[2022.09.12-22.13.16:230][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.18:196][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 46
+[2022.09.12-22.13.18:196][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.19:097][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2022.09.12-22.13.19:097][944]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.19:226][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.09.12-22.13.19:226][944]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.20:862][944]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.09.12-22.13.20:862][944]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.21:120][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.09.12-22.13.21:120][944]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.21:338][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.09.12-22.13.21:338][944]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.22:376][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.09.12-22.13.22:376][944]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.22:376][944]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.09.12-22.13.22:376][944]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.22:586][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2022.09.12-22.13.22:586][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.22:868][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.09.12-22.13.22:868][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.13.22:893][944]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.09.12-22.13.22:893][944]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.11:861][944]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.12-22.16.11:946][944]LogUObjectGlobals: Force Deleting 291 Package(s):
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_Run.ANIM_DeerDoe_Run
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag.SK_DeerStag
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_RestToGoBackUp.ANIM_DeerDoe_RestToGoBackUp
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag_PhysicsAsset.SK_DeerStag_PhysicsAsset
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Materials/M_DeerStagFur.M_DeerStagFur
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Materials/M_DeerStag.M_DeerStag
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_OcclusionRoughnessMetllic.T_Stag_OcclusionRoughnessMetllic
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_Nml.T_Stag_Nml
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Textures/T_Stag_BaseColor.T_Stag_BaseColor
+	Asset Name: /Game/AnimalVarietyPack/DeerStagAndDoe/Animations/ANIM_DeerDoe_IdleSleep.ANIM_DeerDoe_IdleSleep
+[2022.09.12-22.16.14:321][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:321][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:321][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:323][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:323][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:323][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:324][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:325][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:325][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:326][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:326][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:326][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:328][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:328][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:328][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:329][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:330][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:330][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:331][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:331][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:331][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:332][944]LogMaterial: Display: Missing cached shadermap for M_DeerStagFur in PCD3D_SM5, Default, SM5 (DDC key hash: B036382D9FF7D74EF95D31CEE74BB959526FD7BA), compiling. 
+[2022.09.12-22.16.14:333][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStagFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:333][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:334][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:334][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:334][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:334][944]LogMaterial: Warning: M_WolfFur: Requesting an invalid TextureIndex! (3 / 1)
+[2022.09.12-22.16.14:335][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:335][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:336][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:337][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:337][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:337][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:338][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:338][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:338][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:339][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:339][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:340][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:340][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:341][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:341][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:342][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:342][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:342][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:343][944]LogMaterial: Display: Missing cached shadermap for M_WolfFur in PCD3D_SM5, Default, SM5 (DDC key hash: 816D5997650BCFA649C477A4E1130FD1A08CF021), compiling. 
+[2022.09.12-22.16.14:343][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:343][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:362][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:362][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:362][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:363][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:364][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:364][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:364][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:365][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:365][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:365][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:366][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:366][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:366][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:367][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:367][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:368][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:368][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:368][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:369][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:369][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:369][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:370][944]LogMaterial: Display: Missing cached shadermap for M_DeerStag in PCD3D_SM5, Default, SM5 (DDC key hash: 547669795043F86683571E97F0673DB72C3D4174), compiling. 
+[2022.09.12-22.16.14:370][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerStag.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:370][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:371][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:371][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:371][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:372][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:372][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:372][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:373][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:373][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:373][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:373][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:374][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:374][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:375][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:375][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:375][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:376][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:376][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:376][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:376][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:377][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:377][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:377][944]LogMaterial: Display: Missing cached shadermap for M_Wolf in PCD3D_SM5, Default, SM5 (DDC key hash: 1A6EEF188C5B6C2FB90A25FF5C8C8B09BB1B9669), compiling. 
+[2022.09.12-22.16.14:378][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_Wolf.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:378][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:378][944]LogSkeletalMesh: Building Skeletal Mesh SK_Wolf...
+[2022.09.12-22.16.14:411][944]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf
+[2022.09.12-22.16.14:547][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:547][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:547][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:549][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:549][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:549][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:550][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:550][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:550][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:551][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:552][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:552][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:553][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:553][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:553][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:554][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:554][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:554][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:555][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:556][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:556][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:557][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoeFur in PCD3D_SM5, Default, SM5 (DDC key hash: 6C3C3D7594FA3BCAB3C89144AFC26B5853FA7119), compiling. 
+[2022.09.12-22.16.14:557][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoeFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:557][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:565][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:565][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:565][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:566][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:566][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:566][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:567][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:567][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:567][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:568][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:568][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:568][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:569][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:569][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:569][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:570][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:570][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:570][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:571][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:571][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:571][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:572][944]LogMaterial: Display: Missing cached shadermap for M_DeerDoe in PCD3D_SM5, Default, SM5 (DDC key hash: 7BC3FB6A0413F230F125B11A494EC66DFA7CA580), compiling. 
+[2022.09.12-22.16.14:572][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\DeerStagAndDoe\Materials\M_DeerDoe.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:572][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:584][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:585][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:585][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:586][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:586][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:586][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:588][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:588][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:588][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:589][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:590][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:590][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:591][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:591][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:591][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:592][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:593][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:593][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:594][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:594][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:594][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:595][944]LogMaterial: Display: Missing cached shadermap for M_FoxFur in PCD3D_SM5, Default, SM5 (DDC key hash: 19B4AFB2CB1BD5A269D3995B980B64A8899D875B), compiling. 
+[2022.09.12-22.16.14:595][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_FoxFur.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:595][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:747][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:747][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:747][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:748][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:748][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:748][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:749][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:750][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:750][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:751][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:751][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:751][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:752][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:752][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:752][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:754][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:754][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:754][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:755][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:755][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:755][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:756][944]LogMaterial: Display: Missing cached shadermap for M_Fox in PCD3D_SM5, Default, SM5 (DDC key hash: B1E15B908B33EE100CD02DC574BD17CF32F440F3), compiling. 
+[2022.09.12-22.16.14:756][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Fox\Materials\M_Fox.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:756][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:850][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:850][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:850][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:852][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:852][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:852][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:853][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:853][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:853][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:854][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:855][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:855][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:856][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:856][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:856][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:857][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:857][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:857][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:858][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:858][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:858][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:859][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurDark in PCD3D_SM5, Default, SM5 (DDC key hash: 7399FCFEB8BA6C48BBD88B9EC8197BECF001E59F), compiling. 
+[2022.09.12-22.16.14:860][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:860][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:861][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:861][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:861][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:862][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:862][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:862][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:863][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:864][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:864][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:865][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:865][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:865][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:866][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:866][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:866][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:867][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:868][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:868][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:869][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:869][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:869][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:870][944]LogMaterial: Display: Missing cached shadermap for M_WolfFurArctic in PCD3D_SM5, Default, SM5 (DDC key hash: 4A6632405531D09A6AF256825FE3978A6106D530), compiling. 
+[2022.09.12-22.16.14:870][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfFurArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:870][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:871][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:871][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:871][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:872][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:872][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:872][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:873][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:873][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:873][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:874][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:875][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:875][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:875][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:876][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:876][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:876][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:877][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:877][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:877][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:877][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:877][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:878][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:878][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:878][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:879][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:879][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:879][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:880][944]LogMaterial: Display: Missing cached shadermap for M_WolfDark in PCD3D_SM5, Default, SM5 (DDC key hash: A91BC3362AB789D170B02553D6B73B3F29D27692), compiling. 
+[2022.09.12-22.16.14:880][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfDark.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:880][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:881][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:882][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:882][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:883][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:883][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:883][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:884][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:884][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:884][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:885][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:886][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:886][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:887][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:887][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:887][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:888][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:888][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:888][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:889][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:889][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:889][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.14:890][944]LogMaterial: Display: Missing cached shadermap for M_WolfArctic in PCD3D_SM5, Default, SM5 (DDC key hash: C654B8E558CFF3A90B2A2B49A2DF679E45BF3D74), compiling. 
+[2022.09.12-22.16.14:891][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Wolf\Materials\M_WolfArctic.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.14:891][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:090][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:091][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:091][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:092][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:092][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:092][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:093][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:094][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:094][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:095][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:095][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:095][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:096][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:096][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:096][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:097][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:098][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:098][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:099][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:099][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:099][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:100][944]LogMaterial: Display: Missing cached shadermap for M_Crow in PCD3D_SM5, Default, SM5 (DDC key hash: D8D9DAC76C8C17CADE11555AD2E3DFEF14F933DE), compiling. 
+[2022.09.12-22.16.15:101][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\AnimalVarietyPack\Crow\Materials\M_Crow.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:101][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:101][944]LogSkeletalMesh: Building Skeletal Mesh SK_Crow...
+[2022.09.12-22.16.15:104][944]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/AnimalVarietyPack/Crow/Meshes/SK_Crow.SK_Crow
+[2022.09.12-22.16.15:367][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:368][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:368][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:368][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:369][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:370][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:370][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:370][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:371][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:371][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:371][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:371][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:373][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:373][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:373][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:373][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:374][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:375][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:375][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:375][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:376][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:376][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:376][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:376][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:377][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:378][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:378][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:378][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:379][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:379][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:380][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:380][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:381][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:381][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:381][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:381][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:382][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:383][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:383][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:383][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:384][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:385][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:385][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:385][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:386][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:386][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:386][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:386][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:388][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:388][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:388][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:388][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:390][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:390][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:390][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:390][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:392][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:392][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:392][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:392][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:393][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:394][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:394][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:394][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:395][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:396][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:396][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:396][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:397][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:397][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:397][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:397][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:398][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:398][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:399][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:399][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:400][944]LogMaterial: Display: Missing cached shadermap for MA_Blackberry in PCD3D_SM5, Default, SM5 (DDC key hash: 82A2C97183CFD37E77134F07033A89BF5B13EEB6), compiling. 
+[2022.09.12-22.16.15:400][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blackberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.15:400][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.15:400][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.15:433][944]LogStaticMesh: Building static mesh Blackberry_01...
+[2022.09.12-22.16.15:473][944]LogStaticMesh: Built static mesh [0.04s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_01.Blackberry_01
+[2022.09.12-22.16.15:520][944]LogStaticMesh: Building static mesh Blackberry_02...
+[2022.09.12-22.16.15:577][944]LogStaticMesh: Built static mesh [0.06s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_02.Blackberry_02
+[2022.09.12-22.16.15:605][944]LogStaticMesh: Building static mesh Blackberry_03...
+[2022.09.12-22.16.15:670][944]LogStaticMesh: Built static mesh [0.07s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_03.Blackberry_03
+[2022.09.12-22.16.15:765][944]LogStaticMesh: Building static mesh Blackberry_04...
+[2022.09.12-22.16.15:924][944]LogStaticMesh: Built static mesh [0.16s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_04.Blackberry_04
+[2022.09.12-22.16.16:011][944]LogStaticMesh: Building static mesh Blackberry_05...
+[2022.09.12-22.16.16:066][944]LogStaticMesh: Built static mesh [0.06s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_05.Blackberry_05
+[2022.09.12-22.16.16:128][944]LogStaticMesh: Building static mesh Blackberry_06...
+[2022.09.12-22.16.16:215][944]LogStaticMesh: Built static mesh [0.09s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_06.Blackberry_06
+[2022.09.12-22.16.16:289][944]LogStaticMesh: Building static mesh Blackberry_07...
+[2022.09.12-22.16.16:354][944]LogStaticMesh: Built static mesh [0.07s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_07.Blackberry_07
+[2022.09.12-22.16.16:384][944]LogStaticMesh: Building static mesh Blackberry_08...
+[2022.09.12-22.16.16:490][944]LogStaticMesh: Built static mesh [0.11s] /Game/PN_WildBerries/Meshes/Blackberry/Blackberry_08.Blackberry_08
+[2022.09.12-22.16.16:524][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:524][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:524][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:524][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:526][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:527][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:527][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:527][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:528][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:528][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:528][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:528][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:530][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:530][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:530][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:530][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:531][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:532][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:532][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:532][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:533][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:533][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:533][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:533][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:534][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:535][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:535][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:535][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:536][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:536][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:536][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:536][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:537][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:538][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:538][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:538][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:539][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:540][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:540][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:540][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:541][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:541][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:541][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:541][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:542][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:543][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:543][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:543][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:544][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:544][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:544][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:544][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:546][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:546][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:546][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:546][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:547][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:547][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:547][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:547][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:548][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:549][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:549][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:549][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:550][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:550][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:550][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:550][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:552][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:552][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:552][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:552][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:553][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:554][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:554][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:554][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:555][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:555][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:555][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:555][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:556][944]LogMaterial: Display: Missing cached shadermap for MA_Blueberry in PCD3D_SM5, Default, SM5 (DDC key hash: 142817EAE6BE318082766E6345742E1EEF04A802), compiling. 
+[2022.09.12-22.16.16:557][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Blueberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.16:557][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.16:557][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.16:569][944]LogStaticMesh: Building static mesh Blueberry_01...
+[2022.09.12-22.16.16:580][944]LogStaticMesh: Built static mesh [0.01s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_01.Blueberry_01
+[2022.09.12-22.16.16:610][944]LogStaticMesh: Building static mesh Blueberry_02...
+[2022.09.12-22.16.16:660][944]LogStaticMesh: Built static mesh [0.05s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_02.Blueberry_02
+[2022.09.12-22.16.16:683][944]LogStaticMesh: Building static mesh Blueberry_03...
+[2022.09.12-22.16.16:702][944]LogStaticMesh: Built static mesh [0.02s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_03.Blueberry_03
+[2022.09.12-22.16.16:776][944]LogStaticMesh: Building static mesh Blueberry_04...
+[2022.09.12-22.16.16:801][944]LogStaticMesh: Built static mesh [0.02s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_04.Blueberry_04
+[2022.09.12-22.16.16:866][944]LogStaticMesh: Building static mesh Blueberry_05...
+[2022.09.12-22.16.16:925][944]LogStaticMesh: Built static mesh [0.06s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05.Blueberry_05
+[2022.09.12-22.16.16:945][944]LogStaticMesh: Building static mesh Blueberry_06...
+[2022.09.12-22.16.16:951][944]LogStaticMesh: Built static mesh [0.01s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_06.Blueberry_06
+[2022.09.12-22.16.16:971][944]LogStaticMesh: Building static mesh Blueberry_07...
+[2022.09.12-22.16.16:988][944]LogStaticMesh: Built static mesh [0.02s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_07.Blueberry_07
+[2022.09.12-22.16.17:040][944]LogStaticMesh: Building static mesh Blueberry_08...
+[2022.09.12-22.16.17:066][944]LogStaticMesh: Built static mesh [0.03s] /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_08.Blueberry_08
+[2022.09.12-22.16.17:103][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:104][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:104][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:104][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:105][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:106][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:106][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:106][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:107][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:107][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:107][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:107][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:108][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:109][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:109][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:109][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:110][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:110][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:110][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:110][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:111][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:112][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:112][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:112][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:113][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:114][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:114][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:114][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:115][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:115][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:115][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:115][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:116][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:117][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:117][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:117][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:118][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:118][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:118][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:118][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:119][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:120][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:120][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:120][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:121][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:121][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:121][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:121][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:122][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:123][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:123][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:123][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:124][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:124][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:124][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:124][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:125][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:126][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:126][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:126][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:127][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:128][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:128][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:128][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:129][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:129][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:129][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:129][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:130][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:131][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:131][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:131][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:132][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:132][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:132][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:132][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:133][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:134][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:134][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:134][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:135][944]LogMaterial: Display: Missing cached shadermap for MA_Raspberry in PCD3D_SM5, Default, SM5 (DDC key hash: 750EFA0EC4565A0285D7432DD93A6E3C2B274CE5), compiling. 
+[2022.09.12-22.16.17:135][944]LogMaterial: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\PN_WildBerries\Materials\MA_Raspberry.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.09.12-22.16.17:135][944]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.09.12-22.16.17:135][944]LogMaterial: Display: 	Missing Material Function
+[2022.09.12-22.16.17:194][944]LogStaticMesh: Building static mesh Raspberry_01...
+[2022.09.12-22.16.17:224][944]LogStaticMesh: Built static mesh [0.03s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_01.Raspberry_01
+[2022.09.12-22.16.17:309][944]LogStaticMesh: Building static mesh Raspberry_02...
+[2022.09.12-22.16.17:332][944]LogStaticMesh: Built static mesh [0.02s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_02.Raspberry_02
+[2022.09.12-22.16.17:352][944]LogStaticMesh: Building static mesh Raspberry_03...
+[2022.09.12-22.16.17:381][944]LogStaticMesh: Built static mesh [0.03s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_03.Raspberry_03
+[2022.09.12-22.16.17:405][944]LogStaticMesh: Building static mesh Raspberry_04...
+[2022.09.12-22.16.17:471][944]LogStaticMesh: Built static mesh [0.07s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_04.Raspberry_04
+[2022.09.12-22.16.17:500][944]LogStaticMesh: Building static mesh Raspberry_05...
+[2022.09.12-22.16.17:582][944]LogStaticMesh: Built static mesh [0.08s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_05.Raspberry_05
+[2022.09.12-22.16.17:611][944]LogStaticMesh: Building static mesh Raspberry_06...
+[2022.09.12-22.16.17:697][944]LogStaticMesh: Built static mesh [0.09s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_06.Raspberry_06
+[2022.09.12-22.16.17:728][944]LogStaticMesh: Building static mesh Raspberry_07...
+[2022.09.12-22.16.17:880][944]LogStaticMesh: Built static mesh [0.15s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_07.Raspberry_07
+[2022.09.12-22.16.17:915][944]LogStaticMesh: Building static mesh Raspberry_08...
+[2022.09.12-22.16.18:240][944]LogStaticMesh: Built static mesh [0.33s] /Game/PN_WildBerries/Meshes/Raspberry/Raspberry_08.Raspberry_08
+[2022.09.12-22.16.18:293][944]LogSkeletalMesh: Building Skeletal Mesh SK_Fox...
+[2022.09.12-22.16.18:329][944]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimalVarietyPack/Fox/Meshes/SK_Fox.SK_Fox
+[2022.09.12-22.16.18:520][944]LogSkeletalMesh: Building Skeletal Mesh SK_DeerStag...
+[2022.09.12-22.16.18:566][944]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag.SK_DeerStag
+[2022.09.12-22.16.18:656][944]LogSkeletalMesh: Building Skeletal Mesh SK_DeerDoe...
+[2022.09.12-22.16.18:693][944]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerDoe.SK_DeerDoe
+[2022.09.12-22.16.19:053][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.12-22.16.19:690][944]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.09.12-22.16.19:690][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.12-22.16.19:874][944]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.09.12-22.16.19:874][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.12-22.16.20:850][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.09.12-22.16.20:874][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.09.12-22.16.20:878][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:882][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:886][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.20:891][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.20:895][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:900][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:904][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:908][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:912][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:916][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:919][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:924][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:928][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:932][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.20:936][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.20:940][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.20:945][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.20:949][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.12-22.16.20:954][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.12-22.16.20:959][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.20:963][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.20:967][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.20:972][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.20:976][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.20:980][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.20:984][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.20:988][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:992][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.20:996][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:000][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:004][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:008][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:012][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:017][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.12-22.16.21:021][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:025][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:030][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:034][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:037][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:040][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:044][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:048][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:052][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:056][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.12-22.16.21:060][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:064][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:068][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:086][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:091][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:095][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:099][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:104][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:108][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:112][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:116][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:120][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:125][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:130][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:134][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:138][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:142][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:146][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:150][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:155][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.12-22.16.21:159][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.12-22.16.21:162][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:167][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:170][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:175][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:178][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:182][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:186][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:190][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:194][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:198][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:202][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:206][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:210][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:214][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:218][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:222][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:226][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:230][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:234][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:238][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:242][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:246][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:250][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:254][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:258][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:262][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:267][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:271][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:277][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:281][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:284][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:288][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:292][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:296][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:300][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:304][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:339][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:344][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:348][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:352][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:356][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:361][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:365][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:370][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:374][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:378][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.09.12-22.16.21:382][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:387][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:391][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:396][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:400][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:404][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:408][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:412][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:416][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:420][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:424][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:429][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:432][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:437][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:441][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.12-22.16.21:444][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:448][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:452][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:456][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.21:460][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:465][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:469][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:473][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:479][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:483][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:487][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.12-22.16.21:491][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:495][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:499][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:503][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:507][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:511][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:515][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:519][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:524][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:528][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:532][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:537][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:541][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:544][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:548][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:552][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.09.12-22.16.21:556][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:560][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:564][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:568][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:571][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:575][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:579][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:583][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.09.12-22.16.21:588][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.12-22.16.21:593][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.12-22.16.21:597][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:601][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:605][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:609][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:613][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:617][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:621][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:625][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.12-22.16.21:629][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.12-22.16.21:633][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.21:637][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:642][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.21:646][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:650][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.12-22.16.21:655][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.21:659][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.12-22.16.21:663][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:667][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:672][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:676][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:685][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:689][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:692][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:696][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:700][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:704][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:709][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:713][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:718][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.12-22.16.21:722][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.12-22.16.21:727][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.12-22.16.21:731][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:735][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:739][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:743][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:747][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:752][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.12-22.16.21:756][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.09.12-22.16.21:762][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.12-22.16.21:766][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.12-22.16.21:771][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:775][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:779][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.12-22.16.21:783][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:787][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:791][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:795][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:799][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:803][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:807][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:811][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:815][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:819][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:823][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:827][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:831][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.12-22.16.21:836][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.12-22.16.21:841][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.12-22.16.21:845][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.12-22.16.21:849][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:852][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:857][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:860][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:864][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:868][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:872][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:876][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:881][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:886][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:890][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:894][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.12-22.16.21:899][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:903][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:907][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:911][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:915][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:919][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:923][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:927][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:932][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:936][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:939][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:943][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:947][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:951][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.21:956][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.21:960][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:965][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:969][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.21:973][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.09.12-22.16.21:978][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:982][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.21:987][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.21:991][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:995][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.09.12-22.16.21:999][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.22:002][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:006][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:010][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:014][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.22:018][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:022][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:026][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.22:031][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.09.12-22.16.22:036][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.12-22.16.22:040][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.12-22.16.22:045][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.22:049][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.22:053][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:057][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:061][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:064][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:068][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:072][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:076][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:082][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.12-22.16.22:085][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.22:090][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.12-22.16.22:095][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.12-22.16.22:100][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.12-22.16.22:105][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.12-22.16.22:109][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.22:113][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.22:117][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.12-22.16.22:122][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.12-22.16.22:126][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.22:131][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.12-22.16.22:137][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.12-22.16.23:772][944]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.12-22.16.23:772][944]LogShaderCompilers: Display: Total job queries 8587, among them cache hits 12 (0.14%)
+[2022.09.12-22.16.23:772][944]LogShaderCompilers: Display: Tracking 8393 distinct input hashes that result in 1841 distinct outputs (21.93%)
+[2022.09.12-22.16.23:772][944]LogShaderCompilers: Display: RAM used: 12.34 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.75%
+[2022.09.12-22.16.23:772][944]LogShaderCompilers: Display: ================================================
+[2022.09.12-22.16.51:571][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Saving_and_Loading\Level1SaveStructure.uasset: Failed to load '/Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar': Can't find file.
+[2022.09.12-22.16.51:571][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Saving_and_Loading\Level1SaveStructure.uasset: Failed to load '/Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar': Can't find file.
+[2022.09.12-22.16.51:572][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Saving_and_Loading\Level1SaveStructure.uasset: Failed to load '/Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar': Can't find file.
+[2022.09.12-22.16.51:572][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Saving_and_Loading\MyGameInstance.uasset: Failed to load '/Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar': Can't find file.
+[2022.09.12-22.16.51:711][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.51:711][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.51:808][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.51:808][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.51:808][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.51:808][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Stick.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.51:841][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Blueberry.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:841][ 72]LoadErrors: Failed to load /Game/Blueprints/UI/Crafting/CraftingMenu.CraftingMenu_C Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.51:842][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Blueberry.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:842][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\Item_Blueberry.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:878][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\Inventory\InventoryUI\InventoryWindow.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:878][ 72]LoadErrors: Failed to load /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05.Blueberry_05 Referenced by StaticMesh_GEN_VARIABLE
+[2022.09.12-22.16.51:878][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\Inventory\InventoryUI\InventoryWindow.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:878][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS Referenced by CanvasPanelSlot_1
+[2022.09.12-22.16.51:878][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\Inventory\InventoryUI\InventoryWindow.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:878][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\Inventory\InventoryUI\InventoryWindow.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:878][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS.T_GroundPlantRandom_1_SSS Referenced by CanvasPanelSlot_1
+[2022.09.12-22.16.51:879][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\Inventory\InventoryUI\InventoryWindow.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:879][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS.T_GroundPlantRandom_1_SSS Referenced by Default__HealthPultice_C
+[2022.09.12-22.16.51:886][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\HealthPultice.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:886][ 72]LoadErrors: Failed to load /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05 Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.51:886][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\HealthPultice.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:886][ 72]LoadErrors: Failed to load /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05.Blueberry_05 Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.51:886][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\HealthPultice.uasset: Failed to load '/Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05': Can't find file.
+[2022.09.12-22.16.51:886][ 72]LoadErrors: Failed to load /Game/PN_WildBerries/Meshes/Blueberry/Blueberry_05.Blueberry_05 Referenced by Default__Item_Blueberry_C
+[2022.09.12-22.16.51:887][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\HealthPultice.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:887][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Item\HealthPultice.uasset: Failed to load '/Game/FoliagePackV1/Meshes/GroundPlants/Random/Textures/T_GroundPlantRandom_1_SSS': Can't find file.
+[2022.09.12-22.16.51:895][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_Fire.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.51:895][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark.MI_AlaskaCedar_Bark Referenced by StaticMesh_GEN_VARIABLE
+[2022.09.12-22.16.51:895][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_Fire.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.51:895][ 72]LoadErrors: Failed to load /Game/Blueprints/Building/PI_Fire.PI_Fire_C Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.51:925][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_Fire.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:021][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:021][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:025][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:025][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark.MI_AlaskaCedar_Bark Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.52:025][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:025][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark Referenced by PI_WoodWall_GEN_VARIABLE
+[2022.09.12-22.16.52:026][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:026][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:027][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:027][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:053][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:053][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Weather\BP_WeatherModifier.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:063][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:063][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:065][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:066][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:066][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.52:066][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.52:066][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B': Can't find file.
+[2022.09.12-22.16.52:066][ 72]LoadErrors: Failed to load /Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Textures/T_CedarBark_1_B.T_CedarBark_1_B Referenced by Default__Item_Stick_C
+[2022.09.12-22.16.52:067][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:067][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_WoodWall.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:067][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_BasicShelter.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:068][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_BasicShelter.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:233][ 72]LogBlueprint: Error: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] In use pin  Grass  no longer exists on node  Switch on EPhysicalSurface . Please refresh node or break links to remove pin.
+[2022.09.12-22.16.52:233][ 72]LogBlueprint: Error: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] In use pin  Rock  no longer exists on node  Switch on EPhysicalSurface . Please refresh node or break links to remove pin.
+[2022.09.12-22.16.52:233][ 72]LogBlueprint: Error: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] In use pin  Dirt  no longer exists on node  Switch on EPhysicalSurface . Please refresh node or break links to remove pin.
+[2022.09.12-22.16.52:233][ 72]LogBlueprint: Error: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] In use pin  Stones  no longer exists on node  Switch on EPhysicalSurface . Please refresh node or break links to remove pin.
+[2022.09.12-22.16.52:233][ 72]LogBlueprint: Error: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] In use pin  Snow  no longer exists on node  Switch on EPhysicalSurface . Please refresh node or break links to remove pin.
+[2022.09.12-22.16.52:235][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'SwitchRotationAxis' for  InputAction SwitchRotationAxis
+[2022.09.12-22.16.52:235][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ConfirmBuild' for  InputAction ConfirmBuild
+[2022.09.12-22.16.52:236][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2022.09.12-22.16.52:236][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2022.09.12-22.16.52:237][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2022.09.12-22.16.52:237][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2022.09.12-22.16.52:237][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Fire' for  InputAction Fire
+[2022.09.12-22.16.52:238][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveRight' for  InputAxis MoveRight
+[2022.09.12-22.16.52:238][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'MoveForward' for  InputAxis MoveForward
+[2022.09.12-22.16.52:238][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2022.09.12-22.16.52:238][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2022.09.12-22.16.52:238][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\FirstPersonBP\Blueprints\FirstPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2022.09.12-22.16.52:283][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'BuildMenu' for  InputAction BuildMenu
+[2022.09.12-22.16.52:283][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'Inventory' for  InputAction Inventory
+[2022.09.12-22.16.52:283][ 72]LogBlueprint: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\UI\MyPlayerController.uasset: [Compiler] InputAction Event references unknown Action 'Crafting' for  InputAction Crafting
+[2022.09.12-22.16.52:577][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_Log.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:577][ 72]LogLinker: Warning: [AssetLog] E:\ALONE Survivor\BlackWinter2\BlackWinter2\Content\Blueprints\Building\PI_Log.uasset: Failed to load '/Game/FoliagePackV1/Meshes/Trees/AlaskaCedar/Materials/MI_AlaskaCedar_Bark': Can't find file.
+[2022.09.12-22.16.52:653][ 72]LogMaterial: Display: Missing cached shadermap for M_FPGun in PCD3D_SM5, Default, SM5 (DDC key hash: 9410AFC96AEA44842B0E8EA27CE6CE6E0C1EA3E5), compiling. 
+[2022.09.12-22.16.52:722][ 72]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.52:782][ 72]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2022.09.12-22.16.52:782][ 72]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2022.09.12-22.16.52:782][ 72]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 68
+[2022.09.12-22.16.52:782][ 72]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 58
+[2022.09.12-22.16.52:782][ 72]LogShaderCompilers: Display: Started 40 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.52:782][ 72]LogMaterial: Display: Missing cached shadermap for BG_Grid_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A435B70FB67C9EF906EDCD47D540379199C377AC), compiling. 
+[2022.09.12-22.16.52:970][ 72]LogShaderCompilers: Display: Submitted 114 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.52:987][ 72]LogMaterial: Display: Missing cached shadermap for Distortion_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4EAA69201C510158D8AECEAC55412F159D9DD01A), compiling. 
+[2022.09.12-22.16.53:115][ 72]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:117][ 72]LogMaterial: Display: Missing cached shadermap for Basic_Emi_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 4520D9C35956A1C668765787CAF88877D257001B), compiling. 
+[2022.09.12-22.16.53:278][ 72]LogShaderCompilers: Display: Submitted 96 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:280][ 72]LogMaterial: Display: Missing cached shadermap for Sequence_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B0E6E5478C4F133C5514ED95A83929FFB767FB8D), compiling. 
+[2022.09.12-22.16.53:356][ 72]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:359][ 72]LogMaterial: Display: Missing cached shadermap for Smoke1_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A7DCC9DCBF73701B63FCE6130BBAD7AF15D11EE1), compiling. 
+[2022.09.12-22.16.53:451][ 72]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:502][ 72]LogMaterial: Display: Missing cached shadermap for PreviewMaterialPlaced in PCD3D_SM5, Default, SM5 (DDC key hash: E3BD59CB187FB5F3252E9423042F05185A812CA1), compiling. 
+[2022.09.12-22.16.53:522][ 72]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:523][ 72]LogMaterial: Display: Missing cached shadermap for PreviewMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 3353DBC91F21D31708B8EB352FE7DCFDA660F371), compiling. 
+[2022.09.12-22.16.53:543][ 72]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2022.09.12-22.16.53:543][ 72]LogLinker: Warning: Failed to load '/Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar': Can't find file.
+[2022.09.12-22.16.53:543][ 72]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Environment/Foliage/AlaskaCedar/AlaskanCedar.AlaskanCedar_C'
+[2022.09.12-22.16.55:115][148]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 630
+[2022.09.12-22.16.55:115][148]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.55:382][151]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 620
+[2022.09.12-22.16.55:382][151]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.55:548][153]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 610
+[2022.09.12-22.16.55:548][153]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.55:772][177]Cmd: DELETE
+[2022.09.12-22.16.55:772][177]Cmd: ACTOR DELETE
+[2022.09.12-22.16.55:774][177]LogEditorActor: Deleted Actor: FirstPersonCharacter_C
+[2022.09.12-22.16.55:835][177]LogUObjectHash: Compacting FUObjectHashTables data took  19.29ms
+[2022.09.12-22.16.55:838][177]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2022.09.12-22.16.56:626][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 600
+[2022.09.12-22.16.56:626][270]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.16.59:595][603]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 590
+[2022.09.12-22.16.59:595][603]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.00:080][658]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 580
+[2022.09.12-22.17.00:080][658]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.00:340][689]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 570
+[2022.09.12-22.17.00:340][689]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.01:025][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 560
+[2022.09.12-22.17.01:025][768]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.05:173][988]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 550
+[2022.09.12-22.17.05:173][988]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.05:980][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 540
+[2022.09.12-22.17.05:980][ 28]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.06:496][ 54]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 530
+[2022.09.12-22.17.06:496][ 54]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.08:485][150]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 520
+[2022.09.12-22.17.08:485][150]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.11:652][327]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 510
+[2022.09.12-22.17.11:652][327]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.11:888][339]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 500
+[2022.09.12-22.17.11:888][339]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.13:613][418]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 490
+[2022.09.12-22.17.13:613][418]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.14:850][482]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 480
+[2022.09.12-22.17.14:850][482]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.18:695][654]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 470
+[2022.09.12-22.17.18:695][654]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.18:762][657]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 460
+[2022.09.12-22.17.18:763][657]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.22:121][786]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 450
+[2022.09.12-22.17.22:121][786]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.22:217][793]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 440
+[2022.09.12-22.17.22:217][793]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.25:177][959]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 430
+[2022.09.12-22.17.25:177][959]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.25:797][ 12]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 420
+[2022.09.12-22.17.25:797][ 12]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.27:255][142]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 410
+[2022.09.12-22.17.27:255][142]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.28:155][208]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 400
+[2022.09.12-22.17.28:155][208]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.29:894][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 390
+[2022.09.12-22.17.29:894][356]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.29:971][363]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 380
+[2022.09.12-22.17.29:971][363]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.31:461][500]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 370
+[2022.09.12-22.17.31:461][500]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.31:731][523]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2022.09.12-22.17.31:731][523]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.32:614][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 350
+[2022.09.12-22.17.32:614][599]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.33:269][657]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 340
+[2022.09.12-22.17.33:269][657]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.34:778][795]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 330
+[2022.09.12-22.17.34:778][795]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.35:525][858]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 320
+[2022.09.12-22.17.35:525][858]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.36:211][919]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 310
+[2022.09.12-22.17.36:211][919]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.36:457][941]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 300
+[2022.09.12-22.17.36:458][941]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.38:463][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 290
+[2022.09.12-22.17.38:463][116]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.39:158][173]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 280
+[2022.09.12-22.17.39:158][173]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.39:917][241]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 270
+[2022.09.12-22.17.39:917][241]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.40:363][278]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 260
+[2022.09.12-22.17.40:363][278]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.42:238][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 250
+[2022.09.12-22.17.42:238][444]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.43:164][520]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 240
+[2022.09.12-22.17.43:164][520]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.43:302][530]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 230
+[2022.09.12-22.17.43:302][530]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.43:692][565]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2022.09.12-22.17.43:692][565]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.46:296][793]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 210
+[2022.09.12-22.17.46:296][793]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.46:369][799]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2022.09.12-22.17.46:369][799]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.46:809][837]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 190
+[2022.09.12-22.17.46:809][837]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.47:460][890]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2022.09.12-22.17.47:460][890]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.48:845][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2022.09.12-22.17.48:845][  7]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.49:251][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 160
+[2022.09.12-22.17.49:251][ 43]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.49:591][ 70]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 150
+[2022.09.12-22.17.49:591][ 70]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.49:785][ 86]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 140
+[2022.09.12-22.17.49:786][ 86]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.52:103][276]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 130
+[2022.09.12-22.17.52:103][276]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.52:978][351]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 120
+[2022.09.12-22.17.52:978][351]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.53:574][400]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 110
+[2022.09.12-22.17.53:574][400]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.54:200][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2022.09.12-22.17.54:200][449]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.54:641][478]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 90
+[2022.09.12-22.17.54:641][478]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.56:112][590]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 80
+[2022.09.12-22.17.56:112][590]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.56:198][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2022.09.12-22.17.56:198][597]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.57:257][686]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 60
+[2022.09.12-22.17.57:257][686]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.57:941][746]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2022.09.12-22.17.57:941][746]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.17.59:764][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2022.09.12-22.17.59:764][927]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.00:536][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2022.09.12-22.18.00:536][  2]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.01:148][ 63]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2022.09.12-22.18.01:148][ 63]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.02:456][203]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2022.09.12-22.18.02:456][203]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.02:562][216]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.09.12-22.18.02:562][216]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.02:946][256]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.09.12-22.18.02:946][256]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.03:078][266]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.09.12-22.18.03:078][266]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.03:380][293]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.09.12-22.18.03:380][293]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.03:521][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.09.12-22.18.03:521][308]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.09.12-22.18.03:613][310]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.09.12-22.18.03:613][310]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
